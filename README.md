@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.credly.com/badges/6f34c48a-9fff-4986-a6ac-0cd4ae9dcb07/public_url" target="_blank" align="center" alt="Logto Logo">
+    <img src="https://raw.githubusercontent.com/v0rs4/v0rs4/main/assets/aws-certified-developer-associate.png" height="100">
+  </a>
+</p>
+
 ### Hi there 👋
 
 <!--

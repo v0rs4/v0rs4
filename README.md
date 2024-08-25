@@ -2,7 +2,7 @@
   <a href="https://www.credly.com/badges/6f34c48a-9fff-4986-a6ac-0cd4ae9dcb07/public_url" target="_blank" align="center" alt="Logto Logo">
     <img src="./assets/aws-certified-developer-associate.png" height="100">
   </a>
-  <a href="https://www.credly.com/badges/6f34c48a-9fff-4986-a6ac-0cd4ae9dcb07/public_url" target="_blank" align="center" alt="Logto Logo">
+  <a href="https://www.credly.com/badges/ba7930df-0e60-42af-82b4-42abeb06b72b/public_url" target="_blank" align="center" alt="Logto Logo">
     <img src="./assets/aws-certified-solutions-architect-associate.png" height="100">
   </a>
 </p>
